@@ -2,12 +2,12 @@
 
 /* appearance */
 static const char font[]        = "Monofur Nerd Font:pixelsize=15:autohint=true:style=Book";
-static const char* normbgcolor  = "#282a2e";//"#282a2e"
-static const char* normfgcolor  = "#8abeb7";//"#18161a"
-static const char* selbgcolor   = "#5f819d";//"#c5c8c6"
-static const char* selfgcolor   = "#18161a";//"#85678f"
-static const char* urgbgcolor   = "#111111";//"#8abeb7"
-static const char* urgfgcolor   = "#cc0000";//"#5f819d"
+static const char* normbgcolor  = "#0D0D0E";
+static const char* normfgcolor  = "#E2E2E4";
+static const char* selbgcolor   = "#0D0D0E";
+static const char* selfgcolor   = "#7A002B";
+static const char* urgbgcolor   = "#E1BE51";
+static const char* urgfgcolor   = "#0D0D0E";
 static const char before[]      = "<";
 static const char after[]       = ">";
 static const char titletrim[]   = "...";
