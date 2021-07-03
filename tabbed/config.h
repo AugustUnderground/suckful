@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const char font[]        = "Monofur Nerd Font:pixelsize=15:autohint=true:style=Book";
+static const char font[]        = "FantasqueSans Nerd Font:pixelsize=15:autohint=true:style=Book";
 static const char* normbgcolor  = "#0D0D0E";
 static const char* normfgcolor  = "#E2E2E4";
 static const char* selbgcolor   = "#0D0D0E";
